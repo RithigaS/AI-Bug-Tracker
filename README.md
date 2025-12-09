@@ -2,6 +2,10 @@
 
 An intelligent web application that analyzes error logs using AI to identify root causes, suggest fixes, and estimate severity.
 
+## Demo Screenshots
+
+![output](.\output.png)
+
 ## Features
 
 - **Smart Analysis**: Uses LLMs (Groq/Llama3 or HuggingFace) to explain bugs.
