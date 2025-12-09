@@ -1,0 +1,8 @@
+2023-10-27 10:15:30 ERROR [DatabaseService] Connection failed to DB at 192.168.1.50:5432
+User 'admin_user2' failed to authenticate.
+Exception: FATAL: password authentication failed for user "admin_user2"
+API_KEY = "sk-live-998877665544332211aabbcc"
+Traceback (most recent call last):
+  File "/var/www/html/app/db_connector.py", line 42, in connect
+    self.conn = psycopg2.connect(dsn)
+psycopg2.OperationalError: FATAL: password authentication failed for user "admin_user2"

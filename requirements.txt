@@ -1,0 +1,13 @@
+streamlit~=1.51.0
+langchain
+langchain-classic
+langchain-huggingface
+langchain-core~=1.0.2
+langchain-groq
+langchain-chroma
+python-dotenv~=1.2.1
+langchain-community
+sentence-transformers
+pypdf
+langchain-text-splitters~=1.0.0
+langchain-google-genai
