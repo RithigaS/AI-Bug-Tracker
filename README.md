@@ -4,7 +4,7 @@ An intelligent web application that analyzes error logs using AI to identify roo
 
 ## Demo Screenshots
 
-![output](.\output.png)
+![output](./output.png)
 
 ## Features
 
