@@ -2,6 +2,10 @@
 
 An intelligent web application that analyzes error logs using AI to identify root causes, suggest fixes, and estimate severity.
 
+## Demo Link
+[StreamlitApp](https://ai-bug-tracker-grootan.streamlit.app/)
+
+
 ## Demo Screenshots
 
 ![output](./output.png)
